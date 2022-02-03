@@ -2,6 +2,6 @@
   --color-bg-default: #1e293b !important;
 }
 
-#block-308fa3e3513f401ebeefd24d74dbebdc .notion-page__icon {
+#block-308fa3e3513f401ebeefd24d74dbebdc .notion-link notion-page div .notion-page__icon {
   display: none !important;
 }
