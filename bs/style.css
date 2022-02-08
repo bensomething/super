@@ -41,6 +41,7 @@ blockquote:first-of-type {
   margin: 0 !important;
   padding: 0 !important;
   text-transform: uppercase;
+  top: 0;
 }
 
 #block-ef46c3bedc74469aa43fd86d60d14456 {
