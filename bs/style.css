@@ -45,6 +45,7 @@ p {
   border-bottom: none !important;
 }
 .notion-divider::after {
+  display: block;
   width: 100%;
   content: '-----x-----';
   text-align: center;
