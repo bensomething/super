@@ -98,7 +98,7 @@ blockquote:first-of-type .notion-semantic-string .link {
   display: none;
 }
 
-.notion-page__property:nth-child(1) .notion-page__properties .notion-property {
+.notion-page__property:nth-child(1) .notion-page__properties .notion-property.notion-property__text {
   padding: 0 !important;
   
 }
