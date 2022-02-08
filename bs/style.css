@@ -107,6 +107,7 @@ blockquote:first-of-type .notion-semantic-string .link {
 .notion-collection-list__item .notion-property__title .notion-semantic-string {
   white-space: normal !important;
   font-weight: 400 !important;
+  align-items: start !important;
 }
 .notion-collection__header-wrapper {
   display: none !important;
