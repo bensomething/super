@@ -21,6 +21,9 @@
 
 h1 {
   font-family: 'Tiempos Headline', serif !important;
+  font-size: 3rem;
+  line-height: 1;
+  margin-bottom: 2rem;
 }
 
 h2 {
