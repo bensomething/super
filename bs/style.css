@@ -39,5 +39,5 @@ h2 {
   white-space: normal !important;
 }
 .collection-bfa6b801bf7c4d208e962dfbdd75879e #notion-collection__header-wrapper {
-  display: none;
+  display: none !important;
 }
