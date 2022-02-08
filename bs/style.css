@@ -82,6 +82,10 @@ blockquote:first-of-type .notion-semantic-string .link {
   display: none !important;
 }
 
+.notion-page__property:nth-child(1) {
+  display: block;
+}
+
 /* DATABASE LIST */
 .notion-collection-list__item .notion-property__title .notion-semantic-string>span {
   border-bottom: none !important;
