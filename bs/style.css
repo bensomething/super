@@ -23,7 +23,6 @@ h1 {
   font-family: 'Tiempos Headline', serif !important;
   font-size: 3rem !important;
   line-height: 1 !important;
-  margin-bottom: 2rem !important;
 }
 
 h2 {
@@ -43,6 +42,7 @@ h2 {
 }
 .notion-collection-list__item .notion-property__title .notion-semantic-string {
   white-space: normal !important;
+  font-weight: 400 !important;
 }
 .collection-bfa6b801bf7c4d208e962dfbdd75879e .notion-collection__header-wrapper {
   display: none !important;
