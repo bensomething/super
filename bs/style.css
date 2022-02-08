@@ -37,6 +37,10 @@ h2 {
   margin-bottom: 2.5rem !important;
 }
 
+p {
+  color: #94a3b8 !important;
+}
+
 blockquote:first-of-type {
   font-size: 0.75em !important;
   position: absolute !important;
