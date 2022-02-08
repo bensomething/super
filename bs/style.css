@@ -34,8 +34,13 @@ h2 {
 }
 
 blockquote:first-of-type {
-  font-size: 1em !important;
+  font-size: 0.75em !important;
   position: absolute !important;
+  -webkit-border-start: none !important;
+  border-inline-start: none !important;
+  margin: 0 !important;
+  padding: 0 !important;
+  text-transform: uppercase;
 }
 
 #block-ef46c3bedc74469aa43fd86d60d14456 {
