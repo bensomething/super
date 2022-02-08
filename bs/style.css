@@ -100,7 +100,7 @@ blockquote:first-of-type .notion-semantic-string .link {
 
 .notion-page__property:nth-child(1) .notion-property.notion-property__text {
   padding: 0 !important;
-  
+  margin-top: 1rem;
 }
 
 /* DATABASE LIST */
