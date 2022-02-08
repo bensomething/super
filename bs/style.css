@@ -41,6 +41,13 @@ p {
   color: #94a3b8 !important;
 }
 
+.super-navbar {
+  max-width: 900px;
+  margin: auto;
+  padding-left: calc(env(safe-area-inset-left) + 96px);
+  padding-right: calc(env(safe-area-inset-right) + 96px);
+}
+
 .notion-divider {
   border-bottom: none !important;
 }
