@@ -43,8 +43,11 @@ p {
 
 .notion-divider {
   border-bottom: none !important;
+}
+.notion-divider::after {
+  width: 100%;
   content: '-----x-----';
-  text-align: center ;
+  text-align: center;
 }
 
 #block-f7a0587192d545b4966e53423f263d67,
