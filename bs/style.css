@@ -41,7 +41,12 @@ blockquote:first-of-type {
   margin: 0 !important;
   padding: 0 !important;
   text-transform: uppercase;
-  top: 0;
+  top: 9rem;
+  font-weight: 600;
+  opacity: 0.5;
+}
+blockquote:first-of-type .notion-semantic-string .link {
+  border-bottom: none !important;
 }
 
 #block-ef46c3bedc74469aa43fd86d60d14456 {
