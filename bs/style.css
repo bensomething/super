@@ -29,7 +29,8 @@ h1 {
   color: #e2e8f0 !important;
 }
 
-h2 {
+h2,
+.notion-page__property:nth-child(1) .notion-page__properties .notion-property {
   font-weight: 400 !important;
   font-size: 1.25rem !important;
   line-height: 1.75rem !important;
@@ -95,6 +96,11 @@ blockquote:first-of-type .notion-semantic-string .link {
 
 .notion-page__property:nth-child(1) .notion-page__property-name {
   display: none;
+}
+
+.notion-page__property:nth-child(1) .notion-page__properties .notion-property {
+  padding: 0 !important;
+  
 }
 
 /* DATABASE LIST */
