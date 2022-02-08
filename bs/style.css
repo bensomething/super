@@ -44,8 +44,8 @@ p {
 .super-navbar {
   max-width: 900px;
   margin: auto;
-  padding-left: calc(env(safe-area-inset-left) + 96px);
-  padding-right: calc(env(safe-area-inset-right) + 96px);
+  padding-left: calc(env(safe-area-inset-left) + 74px);
+  padding-right: calc(env(safe-area-inset-right) + 74px);
 }
 
 .notion-divider {
