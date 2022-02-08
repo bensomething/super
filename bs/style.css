@@ -17,6 +17,7 @@
 
 :root {
   --color-text-default: #cbd5e1!important;
+  --color-text-red: #f43f5e!important;
   --color-bg-default: #1e293b !important;
   --color-red: #f43f5e!important;
 }
