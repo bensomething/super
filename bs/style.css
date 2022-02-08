@@ -16,13 +16,16 @@
 }
 
 :root {
+  --color-text-default: #cbd5e1!important;
   --color-bg-default: #1e293b !important;
+  --color-red: #f43f5e!important;
 }
 
 h1 {
   font-family: 'Tiempos Headline', serif !important;
   font-size: 3rem !important;
   line-height: 1 !important;
+  color: #e2e8f0 !important;
 }
 
 h2 {
