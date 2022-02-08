@@ -31,6 +31,10 @@ h1 {
 
 h2 {
   font-weight: 400 !important;
+  font-size: 1.25rem !important;
+  line-height: 1.75rem !important;
+  line-height: 1.62 !important;
+  margin-bottom: 2.5rem !important;
 }
 
 blockquote:first-of-type {
