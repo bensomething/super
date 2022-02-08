@@ -52,6 +52,12 @@ p {
   opacity: 0.25;
 }
 
+.notion-caption {
+  text-align: center;
+  margin-top: 1rem;
+  text-transform: uppercase;
+}
+
 #block-f7a0587192d545b4966e53423f263d67,
 blockquote:first-of-type {
   text-transform: uppercase;
