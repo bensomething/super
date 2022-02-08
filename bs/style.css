@@ -101,7 +101,7 @@ blockquote:first-of-type .notion-semantic-string .link {
   border-top: none !important;
 }
 .notion-collection-list__item {
-  padding: 4px;
+  padding: 4px !important;
 }
 .notion-collection-list__item .notion-property__title .notion-semantic-string {
   white-space: normal !important;
