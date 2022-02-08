@@ -83,7 +83,7 @@ blockquote:first-of-type .notion-semantic-string .link {
 }
 
 .notion-page__property:nth-child(1) {
-  display: block;
+  display: block !important;
 }
 
 /* DATABASE LIST */
