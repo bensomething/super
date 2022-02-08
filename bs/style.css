@@ -109,7 +109,7 @@ blockquote:first-of-type .notion-semantic-string .link {
   font-weight: 400 !important;
   align-items: start !important;
 }
-.notion-header__icon-wrapper.no-cover has-icon-image {
+.notion-header__icon-wrapper.has-icon-image {
   display: none !important;
 }
 .notion-header__title-wrapper {
