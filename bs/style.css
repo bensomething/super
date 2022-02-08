@@ -38,6 +38,9 @@ h2 {
 .notion-collection-list__item .notion-property__title .notion-semantic-string>span {
   border-bottom: none !important;
 }
+.notion-collection-list {
+  border-top: none !important;
+}
 .notion-collection-list__item .notion-property__title .notion-semantic-string {
   white-space: normal !important;
 }
