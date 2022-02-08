@@ -1,5 +1,26 @@
+@font-face {
+  font-family: 'Tiempos Headline';
+  src: url('/fonts/TiemposHeadline-Black.woff2') format('woff2'),
+       url('/fonts/TiemposHeadline-Black.woff') format('woff');
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Tiempos Headline';
+  src: url('/fonts/TiemposHeadline-BlackItalic.woff2') format('woff2'),
+       url('/fonts/TiemposHeadline-BlackItalic.woff') format('woff');
+  font-weight: 900;
+  font-style: italic;
+  font-display: swap;
+}
+
 :root {
   --color-bg-default: #1e293b !important;
+}
+
+h1 {
+  font-family: 'Tiempos Headline', serif !important;
 }
 
 h2 {
