@@ -40,18 +40,21 @@ h2 {
 p {
   color: #94a3b8 !important;
 }
+#block-f7a0587192d545b4966e53423f263d67,
+blockquote:first-of-type {
+  text-transform: uppercase;
+  top: 9rem;
+  font-weight: 600;
+  opacity: 0.5;
+  font-size: 0.75em !important;
+}
 
 blockquote:first-of-type {
-  font-size: 0.75em !important;
   position: absolute !important;
   -webkit-border-start: none !important;
   border-inline-start: none !important;
   margin: 0 !important;
   padding: 0 !important;
-  text-transform: uppercase;
-  top: 9rem;
-  font-weight: 600;
-  opacity: 0.5;
 }
 blockquote:first-of-type .notion-semantic-string .link {
   border-bottom: none !important;
