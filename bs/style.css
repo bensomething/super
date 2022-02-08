@@ -30,7 +30,7 @@ h1 {
 }
 
 h2,
-.notion-page__property:nth-child(1) .notion-page__properties .notion-property {
+.notion-page__property:nth-child(1) .notion-page__properties .notion-property.notion-property__text {
   font-weight: 400 !important;
   font-size: 1.25rem !important;
   line-height: 1.75rem !important;
