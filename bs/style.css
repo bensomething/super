@@ -33,6 +33,11 @@ h2 {
   font-weight: 400 !important;
 }
 
+blockquote:first-of-type {
+  font-size: 1em !important;
+  position: absolute !important;
+}
+
 #block-ef46c3bedc74469aa43fd86d60d14456 {
   display: none !important;
 }
