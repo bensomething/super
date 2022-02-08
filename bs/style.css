@@ -72,6 +72,6 @@ blockquote:first-of-type .notion-semantic-string .link {
   white-space: normal !important;
   font-weight: 400 !important;
 }
-.collection-bfa6b801bf7c4d208e962dfbdd75879e .notion-collection__header-wrapper {
+.notion-collection__header-wrapper {
   display: none !important;
 }
