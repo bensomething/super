@@ -43,12 +43,12 @@ p {
   color: #94a3b8 !important;
 }
 
-.super-navbar {
+/* .super-navbar {
   max-width: 900px;
   margin: auto;
   padding-left: calc(env(safe-area-inset-left) + 74px);
   padding-right: calc(env(safe-area-inset-right) + 74px);
-}
+} */
 
 .notion-divider {
   border-bottom: none !important;
