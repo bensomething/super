@@ -109,6 +109,9 @@ blockquote:first-of-type .notion-semantic-string .link {
   font-weight: 400 !important;
   align-items: start !important;
 }
+.has-icon-image {
+  display: none !important;
+}
 .notion-collection__header-wrapper {
   display: none !important;
 }
