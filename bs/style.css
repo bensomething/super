@@ -20,6 +20,7 @@
   --color-text-red: #f43f5e!important;
   --color-bg-default: #1e293b !important;
   --color-red: #f43f5e!important;
+  --color-border-default: #0f172a !important;
 }
 
 h1 {
@@ -74,6 +75,7 @@ blockquote:first-of-type {
   font-weight: 600;
   opacity: 0.5;
   font-size: 0.75em !important;
+  letter-spacing: 0.05em;
 }
 
 blockquote:first-of-type {
