@@ -30,3 +30,11 @@ h2 {
 #block-ef46c3bedc74469aa43fd86d60d14456 {
   display: none !important;
 }
+
+/* DATABASE LIST */
+.notion-collection-list__item .notion-property__title .notion-semantic-string>span {
+  border-bottom: none !important;
+}
+.notion-collection-list__item .notion-property__title .notion-semantic-string {
+  white-space: normal !important;
+}
